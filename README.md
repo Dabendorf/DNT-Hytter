@@ -19,3 +19,7 @@ Programmet genererer midlertidige json-filer som ble hentet fra ut.no sin API sa
 * ``map_norway.html``: Interaktivt kart over alle hytter i Norge
 * ``map_vestlandet.html``: Interaktivt kart over alle hytter på Vestlandet
 * ``points.gpx``: gpx fil for å importere alle hytter i en app som for eksempel Organic Maps
+
+
+### Example
+Dataen fra ``2024-03-16`` ligger i data-mappen

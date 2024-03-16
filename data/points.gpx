@@ -1,0 +1,2331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="59.919373551869825" lon="10.389953100402266">
+    <ele>355</ele>
+    <name>Svartpoten</name>
+  </wpt>
+  <wpt lat="59.91947266123353" lon="10.390161954100023">
+    <ele>354</ele>
+    <name>Svartvannskoia</name>
+  </wpt>
+  <wpt lat="60.668296412828425" lon="7.248106642527802">
+    <ele>1095</ele>
+    <name>Hallingskeid - Lokalet </name>
+  </wpt>
+  <wpt lat="60.00407774314999" lon="10.682230050720676">
+    <ele>423</ele>
+    <name>Skjennungsvolden</name>
+  </wpt>
+  <wpt lat="62.25076141415519" lon="5.875972259498781">
+    <ele>1</ele>
+    <name>Toralfbuda</name>
+  </wpt>
+  <wpt lat="63.83976551805722" lon="10.463481474204741">
+    <ele>299</ele>
+    <name>Harravolden</name>
+  </wpt>
+  <wpt lat="59.5349707657271" lon="10.2254605293274">
+    <ele>285</ele>
+    <name>Tyristua</name>
+  </wpt>
+  <wpt lat="59.18369536682482" lon="10.355733132806108">
+    <ele>9</ele>
+    <name>Håøya</name>
+  </wpt>
+  <wpt lat="60.184153326366555" lon="12.46019238386637">
+    <ele>321</ele>
+    <name>Abborhøgda</name>
+  </wpt>
+  <wpt lat="59.92846076510381" lon="10.054149330618515">
+    <ele>637</ele>
+    <name>Hovlandshytta</name>
+  </wpt>
+  <wpt lat="59.950286228717744" lon="10.562284523477416">
+    <ele>181</ele>
+    <name>Gapahuk - Sæteren Gård</name>
+  </wpt>
+  <wpt lat="59.95147313300191" lon="10.559165467851557">
+    <ele>180</ele>
+    <name>Knoll - Sæteren Gård</name>
+  </wpt>
+  <wpt lat="59.94931049778708" lon="10.561820518857502">
+    <ele>179</ele>
+    <name>Spettehytta - Sæteren Gård</name>
+  </wpt>
+  <wpt lat="59.7980322448243" lon="10.075940955318572">
+    <ele>432</ele>
+    <name>Damhytta</name>
+  </wpt>
+  <wpt lat="59.94911664657346" lon="10.559901612851519">
+    <ele>175</ele>
+    <name>Eventyrhytta - Sæteren Gård</name>
+  </wpt>
+  <wpt lat="59.046144626220126" lon="6.334716889059166">
+    <ele>477</ele>
+    <name>Sundmorkvatn turisthytte</name>
+  </wpt>
+  <wpt lat="60.941679138156104" lon="11.191425585223072">
+    <ele>746</ele>
+    <name>Stenfjellhytta ubetjent</name>
+  </wpt>
+  <wpt lat="60.16331" lon="10.10461">
+    <ele>281</ele>
+    <name>Lerbergsetra</name>
+  </wpt>
+  <wpt lat="61.65757102058049" lon="5.292919235751867">
+    <ele>515</ele>
+    <name>Børabu</name>
+  </wpt>
+  <wpt lat="62.247907355173595" lon="6.353515868144541">
+    <ele>381</ele>
+    <name>Kolåstindhytta</name>
+  </wpt>
+  <wpt lat="59.11047247703027" lon="11.505223522700817">
+    <ele>189</ele>
+    <name>Ertekroken</name>
+  </wpt>
+  <wpt lat="61.38330313266664" lon="7.963659939795662">
+    <ele>682</ele>
+    <name>Vettismorki</name>
+  </wpt>
+  <wpt lat="60.20676199258827" lon="10.588922675375926">
+    <ele>463</ele>
+    <name>Sandbekkhytta</name>
+  </wpt>
+  <wpt lat="67.33718114459728" lon="14.690689159033582">
+    <ele>92</ele>
+    <name>Tussvatnet</name>
+  </wpt>
+  <wpt lat="59.90454310379954" lon="10.755079649989284">
+    <ele>0</ele>
+    <name>Munken Padlehuk</name>
+  </wpt>
+  <wpt lat="64.58311411132536" lon="13.042307058338508">
+    <ele>619</ele>
+    <name>Finnkruhøtta</name>
+  </wpt>
+  <wpt lat="60.02425519654554" lon="10.840690630639472">
+    <ele>406</ele>
+    <name>Nydalsbua</name>
+  </wpt>
+  <wpt lat="60.299705409713795" lon="10.973073786812193">
+    <ele>476</ele>
+    <name>Vikkelistallen</name>
+  </wpt>
+  <wpt lat="59.79158395150802" lon="10.733447746604213">
+    <ele>5</ele>
+    <name>Bekkensten</name>
+  </wpt>
+  <wpt lat="59.41333643012618" lon="5.251508410763478">
+    <ele>5</ele>
+    <name>Villa Vibrandsøy</name>
+  </wpt>
+  <wpt lat="62.747958952524726" lon="7.14342454563328">
+    <ele>270</ele>
+    <name>Gamle Storlihytta</name>
+  </wpt>
+  <wpt lat="59.800628168455034" lon="10.082889810606588">
+    <ele>436</ele>
+    <name>Damslett</name>
+  </wpt>
+  <wpt lat="61.54402865509434" lon="6.971666937762336">
+    <ele>292</ele>
+    <name>Austerdalshytta</name>
+  </wpt>
+  <wpt lat="60.81297777090893" lon="4.806898563036782">
+    <ele>6</ele>
+    <name>Rongevær kysthytte</name>
+  </wpt>
+  <wpt lat="58.43236619717743" lon="5.870487426209678">
+    <ele>5</ele>
+    <name>Eigerøy fyrvokterbolig</name>
+  </wpt>
+  <wpt lat="59.853447875849184" lon="5.469640707191672">
+    <ele>695</ele>
+    <name>Stovegolvet</name>
+  </wpt>
+  <wpt lat="59.80214111574901" lon="10.50013826728383">
+    <ele>6</ele>
+    <name>Sjåførboligen på Elnestangen</name>
+  </wpt>
+  <wpt lat="58.598721946039035" lon="8.957148405398726">
+    <ele>4</ele>
+    <name>Furøya Gjestehuset</name>
+  </wpt>
+  <wpt lat="61.27929522703769" lon="6.97758650815436">
+    <ele>613</ele>
+    <name>Kollsetestølen</name>
+  </wpt>
+  <wpt lat="62.49829971282094" lon="11.829526852921532">
+    <ele>691</ele>
+    <name>Fjølburøsta</name>
+  </wpt>
+  <wpt lat="59.883645763239116" lon="10.717185188747209">
+    <ele>4</ele>
+    <name>Styrbord - Gressholmen</name>
+  </wpt>
+  <wpt lat="59.42486482464429" lon="11.556526136264921">
+    <ele>169</ele>
+    <name>Frøne</name>
+  </wpt>
+  <wpt lat="59.883615765123835" lon="10.717464781246235">
+    <ele>5</ele>
+    <name>Babord - Gressholmen</name>
+  </wpt>
+  <wpt lat="70.06788948142292" lon="23.59711414597851">
+    <ele>326</ele>
+    <name>Sarveshytta</name>
+  </wpt>
+  <wpt lat="63.27327772744235" lon="11.806197365879115">
+    <ele>597</ele>
+    <name>Bjørneggen, Biernerånhtjoe</name>
+  </wpt>
+  <wpt lat="60.06876000416176" lon="8.369743624580423">
+    <ele>1101</ele>
+    <name>Kalhovd ubetjent</name>
+  </wpt>
+  <wpt lat="58.94535" lon="9.23099995">
+    <ele>229</ele>
+    <name>Skarpenæring</name>
+  </wpt>
+  <wpt lat="60.52229782491679" lon="10.496613312581303">
+    <ele>415</ele>
+    <name>Gulsjøhytta</name>
+  </wpt>
+  <wpt lat="66.28668002" lon="14.39742772">
+    <ele>369</ele>
+    <name>Reinfjellhytta</name>
+  </wpt>
+  <wpt lat="62.6542001" lon="7.593108">
+    <ele>397</ele>
+    <name>Herjevassbu</name>
+  </wpt>
+  <wpt lat="60.8102338315488" lon="7.93362093583997">
+    <ele>1102</ele>
+    <name>Iungsdalshytta Selvbetjent</name>
+  </wpt>
+  <wpt lat="61.6428041147622" lon="7.790012109702">
+    <ele>938</ele>
+    <name>Nørdstedalseter Selvbetjent</name>
+  </wpt>
+  <wpt lat="60.1839458795195" lon="7.48191112813482">
+    <ele>1252</ele>
+    <name>Sandhaug Selvbetjent</name>
+  </wpt>
+  <wpt lat="60.0936402592026" lon="7.13708721030565">
+    <ele>1195</ele>
+    <name>Litlos Selvbetjent</name>
+  </wpt>
+  <wpt lat="61.4513756174598" lon="8.48757976165548">
+    <ele>989</ele>
+    <name>Gjendebu Selvbetjent</name>
+  </wpt>
+  <wpt lat="61.4631563489933" lon="8.01427979589425">
+    <ele>833</ele>
+    <name>Skogadalsbøen Selvbetjent</name>
+  </wpt>
+  <wpt lat="61.8789011528254" lon="9.79727501053528">
+    <ele>1189</ele>
+    <name>Rondvassbu Selvbetjent</name>
+  </wpt>
+  <wpt lat="62.0907205692801" lon="9.64146172442695">
+    <ele>992</ele>
+    <name>Grimsdalshytta Selvbetjent</name>
+  </wpt>
+  <wpt lat="61.8840664078091" lon="10.0125026350101">
+    <ele>906</ele>
+    <name>Bjørnhollia Selvbetjent</name>
+  </wpt>
+  <wpt lat="61.6226945183016" lon="8.63236345514155">
+    <ele>1386</ele>
+    <name>Glitterheim Selvbetjent </name>
+  </wpt>
+  <wpt lat="59.8093965" lon="10.4196935">
+    <ele>315</ele>
+    <name>Wentzelhytta</name>
+  </wpt>
+  <wpt lat="59.525931" lon="5.226836">
+    <ele>13</ele>
+    <name>Flokehyttene</name>
+  </wpt>
+  <wpt lat="59.35802847309023" lon="10.031222411899932">
+    <ele>172</ele>
+    <name>Hundehotellet på Trollsvann</name>
+  </wpt>
+  <wpt lat="62.1727938" lon="7.4291999">
+    <ele>602</ele>
+    <name>Kaldhusseter utleiehytte</name>
+  </wpt>
+  <wpt lat="60.9945922" lon="8.7708938">
+    <ele>866</ele>
+    <name>Flikja - Huken</name>
+  </wpt>
+  <wpt lat="61.54140142303365" lon="6.976363477595555">
+    <ele>260</ele>
+    <name>Tungestølen Leir</name>
+  </wpt>
+  <wpt lat="58.0523" lon="7.4817">
+    <ele>87</ele>
+    <name>Tjortedal</name>
+  </wpt>
+  <wpt lat="60.6851281" lon="9.230457">
+    <ele>988</ele>
+    <name>Røggjen</name>
+  </wpt>
+  <wpt lat="60.59817" lon="7.50746">
+    <ele>1221</ele>
+    <name>Brebua - Finsehytta selvbetjening</name>
+  </wpt>
+  <wpt lat="61.66853" lon="10.14202">
+    <ele>980</ele>
+    <name>Veslefjellbua</name>
+  </wpt>
+  <wpt lat="59.49459" lon="11.47435">
+    <ele>262</ele>
+    <name>Arnbjørnrud</name>
+  </wpt>
+  <wpt lat="61.543958401975374" lon="6.971936574692137">
+    <ele>293</ele>
+    <name>Tungestølen Turisthytte DNT</name>
+  </wpt>
+  <wpt lat="65.3420338" lon="12.2795172">
+    <ele>8</ele>
+    <name>Holandsbua</name>
+  </wpt>
+  <wpt lat="59.8719995" lon="10.9762626">
+    <ele>253</ele>
+    <name>Fiskelaushytta</name>
+  </wpt>
+  <wpt lat="60.5014648" lon="10.785617">
+    <ele>682</ele>
+    <name>Vollumssætra</name>
+  </wpt>
+  <wpt lat="59.59938" lon="5.95695">
+    <ele>465</ele>
+    <name>Olalia</name>
+  </wpt>
+  <wpt lat="62.6672143" lon="7.42579670000001">
+    <ele>3</ele>
+    <name>Veøystua</name>
+  </wpt>
+  <wpt lat="62.5366429" lon="7.828335">
+    <ele>381</ele>
+    <name>Venjesdalsbu</name>
+  </wpt>
+  <wpt lat="59.7373997999795" lon="10.7290235495034">
+    <ele>13</ele>
+    <name>Breivoll Gård</name>
+  </wpt>
+  <wpt lat="59.8891529" lon="11.0613293">
+    <ele>270</ele>
+    <name>Huldreheim</name>
+  </wpt>
+  <wpt lat="59.9456226902977" lon="9.09309247905369">
+    <ele>815</ele>
+    <name>Øvre Fjellstul</name>
+  </wpt>
+  <wpt lat="68.0593513678422" lon="17.5931074116674">
+    <ele>1006</ele>
+    <name>Skoaddejávre</name>
+  </wpt>
+  <wpt lat="60.1864886309972" lon="8.17103097149582">
+    <ele>1125</ele>
+    <name>Mårbu selvbetjent</name>
+  </wpt>
+  <wpt lat="59.086" lon="5.583">
+    <ele>80</ele>
+    <name>Fjøløy</name>
+  </wpt>
+  <wpt lat="60.5914" lon="6.4186">
+    <ele>672</ele>
+    <name>Rosethytta</name>
+  </wpt>
+  <wpt lat="59.948100977130906" lon="10.561932756871414">
+    <ele>166</ele>
+    <name>Sæteren Gård</name>
+  </wpt>
+  <wpt lat="61.4012876787175" lon="7.93617176626861">
+    <ele>846</ele>
+    <name>Stølsmaradalen</name>
+  </wpt>
+  <wpt lat="60.836857704824" lon="11.4666391557104">
+    <ele>340</ele>
+    <name>Svartskogkoia</name>
+  </wpt>
+  <wpt lat="60.92469866553762" lon="11.194774733086035">
+    <ele>651</ele>
+    <name>Lageråkvisla ubetjent hytte</name>
+  </wpt>
+  <wpt lat="62.3505826997997" lon="12.0492928045293">
+    <ele>719</ele>
+    <name>Røvollen</name>
+  </wpt>
+  <wpt lat="61.5187635538686" lon="7.3618246770408">
+    <ele>765</ele>
+    <name>Vigdalstøl</name>
+  </wpt>
+  <wpt lat="65.988710276011" lon="14.0533913930646">
+    <ele>1007</ele>
+    <name>Gråfjellhytta</name>
+  </wpt>
+  <wpt lat="61.2425719864718" lon="9.59505465195403">
+    <ele>916</ele>
+    <name>Liomseter</name>
+  </wpt>
+  <wpt lat="60.3184404596552" lon="6.89495494436375">
+    <ele>1027</ele>
+    <name>Stavali</name>
+  </wpt>
+  <wpt lat="63.682812" lon="12.2613575775209">
+    <ele>502</ele>
+    <name>Bellingstua</name>
+  </wpt>
+  <wpt lat="68.5635298727473" lon="17.233197523808457">
+    <ele>103</ele>
+    <name>Skoddeberghytta</name>
+  </wpt>
+  <wpt lat="60.1315194179359" lon="7.80176270804337">
+    <ele>1288</ele>
+    <name>Lågaros</name>
+  </wpt>
+  <wpt lat="68.7720329" lon="16.4376601">
+    <ele>225</ele>
+    <name>Grønnkollen</name>
+  </wpt>
+  <wpt lat="61.7561173810108" lon="9.97916307813801">
+    <ele>1013</ele>
+    <name>Eldåbu</name>
+  </wpt>
+  <wpt lat="59.7985177455395" lon="11.0297459943168">
+    <ele>224</ele>
+    <name>Øvresaga</name>
+  </wpt>
+  <wpt lat="59.79841350099062" lon="6.6781062084590985">
+    <ele>1019</ele>
+    <name>Øvre Sandvatn-hytta</name>
+  </wpt>
+  <wpt lat="60.1318395509178" lon="10.0156105766744">
+    <ele>230</ele>
+    <name>Hovinkoia</name>
+  </wpt>
+  <wpt lat="62.5988660958487" lon="8.05048125284999">
+    <ele>903</ele>
+    <name>Svartvassbu</name>
+  </wpt>
+  <wpt lat="62.0346858" lon="4.9857281">
+    <ele>36</ele>
+    <name>Kråkenes fyr</name>
+  </wpt>
+  <wpt lat="59.911732" lon="12.056574">
+    <ele>186</ele>
+    <name>Slettmoen</name>
+  </wpt>
+  <wpt lat="60.15614219917" lon="6.84178900622477">
+    <ele>1324</ele>
+    <name>Tyssevassbu</name>
+  </wpt>
+  <wpt lat="60.5414" lon="6.3443">
+    <ele>1190</ele>
+    <name>Nansenbu</name>
+  </wpt>
+  <wpt lat="68.69734" lon="15.35133">
+    <ele>250</ele>
+    <name>Turlagsstua</name>
+  </wpt>
+  <wpt lat="59.0158026" lon="6.2876848">
+    <ele>176</ele>
+    <name>Bakken gard</name>
+  </wpt>
+  <wpt lat="60.894568" lon="8.9863307">
+    <ele>895</ele>
+    <name>Tyrishølt</name>
+  </wpt>
+  <wpt lat="60.9166" lon="11.3679">
+    <ele>521</ele>
+    <name>Savalsætra</name>
+  </wpt>
+  <wpt lat="59.2715193854516" lon="10.0157302583472">
+    <ele>99</ele>
+    <name>Slirabu</name>
+  </wpt>
+  <wpt lat="59.8503105" lon="11.0094951">
+    <ele>177</ele>
+    <name>Stallen</name>
+  </wpt>
+  <wpt lat="59.587169" lon="9.524332">
+    <ele>415</ele>
+    <name>Pråmvika</name>
+  </wpt>
+  <wpt lat="61.21899" lon="10.93272">
+    <ele>901</ele>
+    <name>Øyungshytta</name>
+  </wpt>
+  <wpt lat="58.5681813" lon="9.016204">
+    <ele>3</ele>
+    <name>Seilerhytta i Tvedestrand</name>
+  </wpt>
+  <wpt lat="60.2568157690581" lon="7.84829843492782">
+    <ele>1228</ele>
+    <name>Rauhelleren selvbetjent</name>
+  </wpt>
+  <wpt lat="63.78391" lon="12.38458">
+    <ele>387</ele>
+    <name>Veresstua</name>
+  </wpt>
+  <wpt lat="61.7523145" lon="5.24957910000001">
+    <ele>377</ele>
+    <name>Moldahytta</name>
+  </wpt>
+  <wpt lat="60.6619167" lon="6.8626611">
+    <ele>873</ele>
+    <name>BT-hytten</name>
+  </wpt>
+  <wpt lat="61.779697" lon="5.3446626">
+    <ele>455</ele>
+    <name>Knekkevasshytta</name>
+  </wpt>
+  <wpt lat="58.0860974" lon="7.9840524">
+    <ele>8</ele>
+    <name>Gammeløya</name>
+  </wpt>
+  <wpt lat="60.2799368" lon="11.6990651">
+    <ele>194</ele>
+    <name>Karterud</name>
+  </wpt>
+  <wpt lat="59.5523508" lon="8.9351393">
+    <ele>712</ele>
+    <name>Himingsjå Turisthytte</name>
+  </wpt>
+  <wpt lat="60.74855125194833" lon="10.54591130157445">
+    <ele>435</ele>
+    <name>DNT Osbakken</name>
+  </wpt>
+  <wpt lat="58.881964" lon="9.609895">
+    <ele>6</ele>
+    <name>Øitangen</name>
+  </wpt>
+  <wpt lat="60.82847" lon="7.50452">
+    <ele>819</ele>
+    <name>Aurlandsdalen Turisthytte Østerbø</name>
+  </wpt>
+  <wpt lat="60.2925689" lon="9.4612645">
+    <ele>1401</ele>
+    <name>Høgevarde nye</name>
+  </wpt>
+  <wpt lat="61.02224" lon="8.04158">
+    <ele>1029</ele>
+    <name>Skarvheim</name>
+  </wpt>
+  <wpt lat="59.01763718" lon="6.93086195">
+    <ele>570</ele>
+    <name>Ådneram  anneks</name>
+  </wpt>
+  <wpt lat="60.80995" lon="12.342947">
+    <ele>423</ele>
+    <name>Drengestua i Juvberget</name>
+  </wpt>
+  <wpt lat="59.400821" lon="11.00042">
+    <ele>91</ele>
+    <name>Ravnsjøholmen med lavvo, gapahuker og dagsturhytte</name>
+  </wpt>
+  <wpt lat="59.8709" lon="10.39055">
+    <ele>347</ele>
+    <name>Halvorsenhytta</name>
+  </wpt>
+  <wpt lat="61.86815001" lon="6.96580285">
+    <ele>1837</ele>
+    <name>Skålabu</name>
+  </wpt>
+  <wpt lat="59.331583" lon="11.293">
+    <ele>140</ele>
+    <name>Østtorphytta</name>
+  </wpt>
+  <wpt lat="59.8469051" lon="5.4840803">
+    <ele>242</ele>
+    <name>Lundarstøl</name>
+  </wpt>
+  <wpt lat="60.2580224" lon="10.097314">
+    <ele>293</ele>
+    <name>Ellingseterkoia</name>
+  </wpt>
+  <wpt lat="59.91934746" lon="10.38983792">
+    <ele>355</ele>
+    <name>Svartvannshytta</name>
+  </wpt>
+  <wpt lat="59.82180279" lon="10.11556667">
+    <ele>385</ele>
+    <name>Garsjøkoia</name>
+  </wpt>
+  <wpt lat="59.7542" lon="10.1911">
+    <ele>118</ele>
+    <name>Hamborgstrømpaviljongen</name>
+  </wpt>
+  <wpt lat="59.9782325" lon="10.6953172">
+    <ele>401</ele>
+    <name>Fuglemyrhytta</name>
+  </wpt>
+  <wpt lat="69.45799" lon="29.64428">
+    <ele>100</ele>
+    <name>Bjørnhytta</name>
+  </wpt>
+  <wpt lat="61.243222472641094" lon="10.816663028772354">
+    <ele>678</ele>
+    <name>Skolla ubetjent hytte</name>
+  </wpt>
+  <wpt lat="61.155308381761216" lon="10.916140637219797">
+    <ele>665</ele>
+    <name>Åkersætra ubetjent hytte</name>
+  </wpt>
+  <wpt lat="60.98372127" lon="11.23810881">
+    <ele>730</ele>
+    <name>Målia Stouslandhytta</name>
+  </wpt>
+  <wpt lat="60.9838072217527" lon="11.23856642743695">
+    <ele>733</ele>
+    <name>Målia selvbetjent hytte</name>
+  </wpt>
+  <wpt lat="61.27683612" lon="9.23295">
+    <ele>1125</ele>
+    <name>Storeskag</name>
+  </wpt>
+  <wpt lat="61.25954419" lon="9.76034872">
+    <ele>946</ele>
+    <name>Vestfjellhytta</name>
+  </wpt>
+  <wpt lat="65.4410835" lon="12.82240014">
+    <ele>133</ele>
+    <name>Strompdal skogstue</name>
+  </wpt>
+  <wpt lat="70.16872" lon="19.80553">
+    <ele>5</ele>
+    <name>Gammelhuset i Skipsfjorden</name>
+  </wpt>
+  <wpt lat="58.9867542" lon="6.342333">
+    <ele>617</ele>
+    <name>Skåpet</name>
+  </wpt>
+  <wpt lat="58.72273023" lon="6.49019954">
+    <ele>423</ele>
+    <name>Kvitlen</name>
+  </wpt>
+  <wpt lat="61.56558805" lon="4.7673246">
+    <ele>8</ele>
+    <name>Kinn</name>
+  </wpt>
+  <wpt lat="61.24523457" lon="9.58658935">
+    <ele>904</ele>
+    <name>Fehytta</name>
+  </wpt>
+  <wpt lat="60.29979" lon="10.9731">
+    <ele>476</ele>
+    <name>Vikkelihytta</name>
+  </wpt>
+  <wpt lat="59.56097" lon="6.85907">
+    <ele>730</ele>
+    <name>Jonstølen</name>
+  </wpt>
+  <wpt lat="58.59903973" lon="8.95724332">
+    <ele>5</ele>
+    <name>Furøya Forpakterboligen</name>
+  </wpt>
+  <wpt lat="62.3592445472625" lon="9.19745186890836">
+    <ele>1302</ele>
+    <name>Åmotdalshytta</name>
+  </wpt>
+  <wpt lat="60.5007" lon="5.96018284416215">
+    <ele>851</ele>
+    <name>Gullhorgabu</name>
+  </wpt>
+  <wpt lat="59.84042" lon="10.88996">
+    <ele>186</ele>
+    <name>Dølerud</name>
+  </wpt>
+  <wpt lat="64.642169" lon="13.1129137555861">
+    <ele>457</ele>
+    <name>Skorovashøtta</name>
+  </wpt>
+  <wpt lat="59.27191834691848" lon="10.014927244048721">
+    <ele>103</ele>
+    <name>Heisetra</name>
+  </wpt>
+  <wpt lat="59.11663" lon="6.875576">
+    <ele>758</ele>
+    <name>Heiberghytta Grautheller</name>
+  </wpt>
+  <wpt lat="59.0058416" lon="6.4222792">
+    <ele>389</ele>
+    <name>Flørlistølen</name>
+  </wpt>
+  <wpt lat="58.9853262937442" lon="6.35052123861824">
+    <ele>684</ele>
+    <name>Skåpet, gamlehytta</name>
+  </wpt>
+  <wpt lat="58.920976231429" lon="5.96677181615531">
+    <ele>10</ele>
+    <name>Nodhagen</name>
+  </wpt>
+  <wpt lat="58.8842634357731" lon="5.7991197541168">
+    <ele>167</ele>
+    <name>Gramstadtunet</name>
+  </wpt>
+  <wpt lat="59.0173064605994" lon="6.93117506279113">
+    <ele>570</ele>
+    <name>Ådneram turisthytte</name>
+  </wpt>
+  <wpt lat="58.396614737657" lon="6.24934954596419">
+    <ele>143</ele>
+    <name>Gaudland</name>
+  </wpt>
+  <wpt lat="59.1068704741899" lon="7.81745537282836">
+    <ele>908</ele>
+    <name>Nutevasshytta</name>
+  </wpt>
+  <wpt lat="58.12169092" lon="8.09318635">
+    <ele>15</ele>
+    <name>Tømmerstø</name>
+  </wpt>
+  <wpt lat="59.1315572633723" lon="7.25007658339248">
+    <ele>972</ele>
+    <name>Svartenut</name>
+  </wpt>
+  <wpt lat="59.2011509065375" lon="7.40345560510667">
+    <ele>995</ele>
+    <name>Stavskar</name>
+  </wpt>
+  <wpt lat="59.6465715692217" lon="7.25865329776554">
+    <ele>1047</ele>
+    <name>Sloaros</name>
+  </wpt>
+  <wpt lat="58.7908301900705" lon="7.24568025342714">
+    <ele>850</ele>
+    <name>Lakkenstova</name>
+  </wpt>
+  <wpt lat="58.8788030793223" lon="7.20586691514338">
+    <ele>880</ele>
+    <name>Josephsbu</name>
+  </wpt>
+  <wpt lat="59.0296181883382" lon="7.16524357818714">
+    <ele>888</ele>
+    <name>Håheller</name>
+  </wpt>
+  <wpt lat="58.9160028006394" lon="7.30541843904986">
+    <ele>839</ele>
+    <name>Gaukhei</name>
+  </wpt>
+  <wpt lat="68.8195842307524" lon="20.1084213251821">
+    <ele>740</ele>
+    <name>Dærtahytta</name>
+  </wpt>
+  <wpt lat="59.183275996431" lon="7.29451531062951">
+    <ele>1026</ele>
+    <name>Bossbu</name>
+  </wpt>
+  <wpt lat="69.0531779230749" lon="20.2547350578715">
+    <ele>701</ele>
+    <name>Gappohytta</name>
+  </wpt>
+  <wpt lat="69.0739146720652" lon="20.5037572632415">
+    <ele>521</ele>
+    <name>Goldahytta</name>
+  </wpt>
+  <wpt lat="68.1901775667763" lon="17.7839084193944">
+    <ele>716</ele>
+    <name>Lossihytta</name>
+  </wpt>
+  <wpt lat="61.8789011528254" lon="9.79727501053528">
+    <ele>1189</ele>
+    <name>Rondvassbu</name>
+  </wpt>
+  <wpt lat="61.8840664078091" lon="10.0125026350101">
+    <ele>906</ele>
+    <name>Bjørnhollia</name>
+  </wpt>
+  <wpt lat="60.4964946996995" lon="9.7114970995125">
+    <ele>887</ele>
+    <name>Storekrakkoia</name>
+  </wpt>
+  <wpt lat="59.3477533095884" lon="7.53737475781159">
+    <ele>818</ele>
+    <name>Bjørnevasshytta</name>
+  </wpt>
+  <wpt lat="62.6481484603644" lon="7.83414032622581">
+    <ele>591</ele>
+    <name>Måsvassbu</name>
+  </wpt>
+  <wpt lat="62.596816389781" lon="7.63520894179487">
+    <ele>385</ele>
+    <name>Skorgedalsbu</name>
+  </wpt>
+  <wpt lat="61.6406471824091" lon="7.5556187335475">
+    <ele>883</ele>
+    <name>Arentzbu</name>
+  </wpt>
+  <wpt lat="60.02018" lon="10.32393">
+    <ele>430</ele>
+    <name>Jørgenhytta</name>
+  </wpt>
+  <wpt lat="61.4836584341712" lon="7.69109473923541">
+    <ele>628</ele>
+    <name>Fuglesteg</name>
+  </wpt>
+  <wpt lat="60.3996758617083" lon="8.67981195378633">
+    <ele>1017</ele>
+    <name>Dusehesten</name>
+  </wpt>
+  <wpt lat="59.79654" lon="10.12007">
+    <ele>471</ele>
+    <name>Goliaten</name>
+  </wpt>
+  <wpt lat="68.6587700063786" lon="19.120563942614">
+    <ele>541</ele>
+    <name>Gaskashytta</name>
+  </wpt>
+  <wpt lat="59.8504151578813" lon="8.65568677568729">
+    <ele>1834</ele>
+    <name>Gaustatoppen Turisthytte</name>
+  </wpt>
+  <wpt lat="60.4513546398914" lon="7.71306806618418">
+    <ele>1156</ele>
+    <name>Krækkja</name>
+  </wpt>
+  <wpt lat="60.2997557846285" lon="8.3407543778961">
+    <ele>987</ele>
+    <name>Solheimstulen</name>
+  </wpt>
+  <wpt lat="68.9397423196064" lon="20.0275608871469">
+    <ele>467</ele>
+    <name>Rostahytta</name>
+  </wpt>
+  <wpt lat="61.0697280240437" lon="11.1699811522182">
+    <ele>600</ele>
+    <name>Sandfløten</name>
+  </wpt>
+  <wpt lat="61.54878944" lon="8.24732041000001">
+    <ele>1405</ele>
+    <name>Leirvassbu Turisthytte</name>
+  </wpt>
+  <wpt lat="59.385297" lon="9.425346">
+    <ele>549</ele>
+    <name>Flekkerhytta</name>
+  </wpt>
+  <wpt lat="61.12294" lon="10.51602">
+    <ele>480</ele>
+    <name>Krokbua</name>
+  </wpt>
+  <wpt lat="59.054987520973356" lon="6.648821364494211">
+    <ele>6</ele>
+    <name>Lysefjorden Turisthytte</name>
+  </wpt>
+  <wpt lat="59.7058638522422" lon="7.12524659454314">
+    <ele>1128</ele>
+    <name>Holmavatn</name>
+  </wpt>
+  <wpt lat="59.1592793533202" lon="6.44979689845184">
+    <ele>416</ele>
+    <name>Viglesdalen</name>
+  </wpt>
+  <wpt lat="59.4669009719118" lon="6.89960433623391">
+    <ele>1101</ele>
+    <name>Krossvatn</name>
+  </wpt>
+  <wpt lat="59.397362854540376" lon="6.972983046512695">
+    <ele>1106</ele>
+    <name>Vassdalstjørn</name>
+  </wpt>
+  <wpt lat="58.8308467984213" lon="6.64353466071406">
+    <ele>730</ele>
+    <name>Tomannsbu</name>
+  </wpt>
+  <wpt lat="59.1029171240755" lon="6.98769844335615">
+    <ele>789</ele>
+    <name>Taumevatn</name>
+  </wpt>
+  <wpt lat="58.7629298375198" lon="6.57742109384974">
+    <ele>546</ele>
+    <name>Støle</name>
+  </wpt>
+  <wpt lat="59.280205995194" lon="6.9096082959503">
+    <ele>940</ele>
+    <name>Storsteinen</name>
+  </wpt>
+  <wpt lat="59.1808999" lon="6.5651549">
+    <ele>761</ele>
+    <name>Stakken</name>
+  </wpt>
+  <wpt lat="59.0420085" lon="6.4301267">
+    <ele>384</ele>
+    <name>Songedalen fjellgard</name>
+  </wpt>
+  <wpt lat="58.953810604794" lon="6.65067775292644">
+    <ele>919</ele>
+    <name>Sandvatn</name>
+  </wpt>
+  <wpt lat="59.1894606307995" lon="6.67497835474468">
+    <ele>735</ele>
+    <name>Nilsebu</name>
+  </wpt>
+  <wpt lat="59.4351086925193" lon="6.58484226371931">
+    <ele>635</ele>
+    <name>Sandsa</name>
+  </wpt>
+  <wpt lat="59.188" lon="6.877">
+    <ele>1000</ele>
+    <name>Litle Aurådal</name>
+  </wpt>
+  <wpt lat="59.2409793395921" lon="6.52057608606121">
+    <ele>846</ele>
+    <name>Melands Grønahei</name>
+  </wpt>
+  <wpt lat="58.9916231022443" lon="6.61469509244077">
+    <ele>939</ele>
+    <name>Langavatn</name>
+  </wpt>
+  <wpt lat="59.6961840510494" lon="6.99009081550861">
+    <ele>660</ele>
+    <name>Kvanndalen</name>
+  </wpt>
+  <wpt lat="59.2388074946746" lon="7.03972696990255">
+    <ele>949</ele>
+    <name>Kringlevatn</name>
+  </wpt>
+  <wpt lat="59.3527026856274" lon="7.03634712324445">
+    <ele>1121</ele>
+    <name>Hovatn</name>
+  </wpt>
+  <wpt lat="59.1478128462254" lon="7.02208031940604">
+    <ele>971</ele>
+    <name>Heibergtunet Storevatn</name>
+  </wpt>
+  <wpt lat="59.2312152575374" lon="6.62251663587883">
+    <ele>633</ele>
+    <name>Grasdalen</name>
+  </wpt>
+  <wpt lat="59.0120010196056" lon="6.42534711546519">
+    <ele>98</ele>
+    <name>Flørli turiststasjon</name>
+  </wpt>
+  <wpt lat="59.2705146451249" lon="6.73777762981973">
+    <ele>1081</ele>
+    <name>Eidavatn</name>
+  </wpt>
+  <wpt lat="59.0351137313376" lon="6.80571315568082">
+    <ele>870</ele>
+    <name>Børsteinen</name>
+  </wpt>
+  <wpt lat="58.9283720767132" lon="6.52993488981025">
+    <ele>609</ele>
+    <name>Blåfjellenden</name>
+  </wpt>
+  <wpt lat="59.6260632369033" lon="6.98398055622488">
+    <ele>708</ele>
+    <name>Bleskestadmoen</name>
+  </wpt>
+  <wpt lat="59.1125085508618" lon="6.87703440628692">
+    <ele>765</ele>
+    <name>Grautheller</name>
+  </wpt>
+  <wpt lat="66.857433047017" lon="14.6904746974789">
+    <ele>126</ele>
+    <name>Beiarstua</name>
+  </wpt>
+  <wpt lat="66.7360247651867" lon="15.4656671539973">
+    <ele>474</ele>
+    <name>Lønsstua</name>
+  </wpt>
+  <wpt lat="66.84943993504365" lon="15.046288363292945">
+    <ele>715</ele>
+    <name>Bjellåvasstua</name>
+  </wpt>
+  <wpt lat="67.18422437209796" lon="14.41084749227565">
+    <ele>39</ele>
+    <name>Gjælentunet</name>
+  </wpt>
+  <wpt lat="62.18838967386026" lon="7.577038692743116">
+    <ele>705</ele>
+    <name>Jakobselet</name>
+  </wpt>
+  <wpt lat="59.3888645968212" lon="10.0399339494394">
+    <ele>331</ele>
+    <name>Hoggerstua på Lindsverkseter</name>
+  </wpt>
+  <wpt lat="59.8660586" lon="8.4733128">
+    <ele>748</ele>
+    <name>Krokan Turisthytte</name>
+  </wpt>
+  <wpt lat="62.862465485826" lon="9.50922528755131">
+    <ele>740</ele>
+    <name>Jøldalshytta</name>
+  </wpt>
+  <wpt lat="60.8102338315488" lon="7.93362093583997">
+    <ele>1102</ele>
+    <name>Iungsdalshytta</name>
+  </wpt>
+  <wpt lat="69.7204854747972" lon="19.9247238835627">
+    <ele>8</ele>
+    <name>Jægervasshytta</name>
+  </wpt>
+  <wpt lat="69.344713427255" lon="17.4375812109215">
+    <ele>157</ele>
+    <name>Senjabu</name>
+  </wpt>
+  <wpt lat="68.3182236662497" lon="17.8992125955687">
+    <ele>700</ele>
+    <name>Hunddalshytta</name>
+  </wpt>
+  <wpt lat="68.1193931560755" lon="17.9502579170757">
+    <ele>1000</ele>
+    <name>Cáihnavággihytta</name>
+  </wpt>
+  <wpt lat="62.6985376226584" lon="9.42035093862709">
+    <ele>717</ele>
+    <name>Gjevilvasshytta</name>
+  </wpt>
+  <wpt lat="67.2070325255488" lon="16.2554323376027">
+    <ele>824</ele>
+    <name>Sorjushyttene</name>
+  </wpt>
+  <wpt lat="67.1236344472924" lon="16.2037020127901">
+    <ele>711</ele>
+    <name>Lomihytta</name>
+  </wpt>
+  <wpt lat="66.69414300148048" lon="13.829807089775443">
+    <ele>1070</ele>
+    <name>Tåkeheimen</name>
+  </wpt>
+  <wpt lat="68.594267373984" lon="16.064855678846982">
+    <ele>522</ele>
+    <name>Haakonsbu</name>
+  </wpt>
+  <wpt lat="60.7019515084634" lon="7.07970332215315">
+    <ele>1262</ele>
+    <name>Kaldavasshytta</name>
+  </wpt>
+  <wpt lat="68.2937599901299" lon="17.9976293153263">
+    <ele>857</ele>
+    <name>Oallavagge</name>
+  </wpt>
+  <wpt lat="67.1401305360024" lon="16.1375180937513">
+    <ele>597</ele>
+    <name>Ny-Sulitjelma fjellstue</name>
+  </wpt>
+  <wpt lat="68.56525364892104" lon="15.972286798284841">
+    <ele>405</ele>
+    <name>Toralfsbu</name>
+  </wpt>
+  <wpt lat="68.1981369989098" lon="17.9633615955955">
+    <ele>985</ele>
+    <name>Storsteinshytta</name>
+  </wpt>
+  <wpt lat="67.9275066738268" lon="13.0026730394709">
+    <ele>400</ele>
+    <name>Munkebu</name>
+  </wpt>
+  <wpt lat="61.7388362603387" lon="7.93782058468067">
+    <ele>1288</ele>
+    <name>Trulsbu</name>
+  </wpt>
+  <wpt lat="61.6267665866623" lon="6.24708933853578">
+    <ele>804</ele>
+    <name>Longevasshytta</name>
+  </wpt>
+  <wpt lat="62.6305733925221" lon="7.98424686127022">
+    <ele>1189</ele>
+    <name>Vasstindbu</name>
+  </wpt>
+  <wpt lat="61.51611112" lon="7.90694447">
+    <ele>2068</ele>
+    <name>Fannaråkhytta</name>
+  </wpt>
+  <wpt lat="62.72177857100121" lon="8.774296288349433">
+    <ele>405</ele>
+    <name>Innerdalshytta</name>
+  </wpt>
+  <wpt lat="61.3379289311691" lon="6.98990329417458">
+    <ele>844</ele>
+    <name>Grøssete</name>
+  </wpt>
+  <wpt lat="61.7612412881525" lon="5.83549326146177">
+    <ele>1167</ele>
+    <name>Gjegnabu</name>
+  </wpt>
+  <wpt lat="61.8454010975339" lon="7.1864088474534">
+    <ele>522</ele>
+    <name>Vetledalseter</name>
+  </wpt>
+  <wpt lat="61.90339188934" lon="7.60565824026068">
+    <ele>917</ele>
+    <name>Skridulaupbu</name>
+  </wpt>
+  <wpt lat="61.8684003040359" lon="6.96588893911931">
+    <ele>1836</ele>
+    <name>Skålatårnet</name>
+  </wpt>
+  <wpt lat="60.59791" lon="7.507">
+    <ele>1224</ele>
+    <name>Finsehytta</name>
+  </wpt>
+  <wpt lat="61.026579844202" lon="8.31687081395578">
+    <ele>983</ele>
+    <name>Kljåen</name>
+  </wpt>
+  <wpt lat="61.3587442498217" lon="7.84960329135934">
+    <ele>837</ele>
+    <name>Gravdalen</name>
+  </wpt>
+  <wpt lat="61.5677786406197" lon="7.81311914743831">
+    <ele>1039</ele>
+    <name>Stølsdalen</name>
+  </wpt>
+  <wpt lat="62.8288973155973" lon="9.23967792366923">
+    <ele>534</ele>
+    <name>Trollheimshytta</name>
+  </wpt>
+  <wpt lat="62.3414858345727" lon="9.35709650479606">
+    <ele>1341</ele>
+    <name>Reinheim</name>
+  </wpt>
+  <wpt lat="62.29426335667955" lon="9.350804887862097">
+    <ele>1474</ele>
+    <name>Snøheim</name>
+  </wpt>
+  <wpt lat="61.3561954421245" lon="8.59556498455878">
+    <ele>1059</ele>
+    <name>Torfinnsbu </name>
+  </wpt>
+  <wpt lat="61.7329854032256" lon="5.54086407417672">
+    <ele>807</ele>
+    <name>Blåbrebu</name>
+  </wpt>
+  <wpt lat="62.413763554618384" lon="5.586506229127792">
+    <ele>13</ele>
+    <name>Runde fyr</name>
+  </wpt>
+  <wpt lat="60.568820357095035" lon="10.958655786344423">
+    <ele>507</ele>
+    <name>Gamle Torsætra</name>
+  </wpt>
+  <wpt lat="59.0998340330647" lon="9.70021527881104">
+    <ele>10</ele>
+    <name>Mule Varde Turisthytte</name>
+  </wpt>
+  <wpt lat="59.0496750566989" lon="9.76093699094891">
+    <ele>5</ele>
+    <name>Sildevika</name>
+  </wpt>
+  <wpt lat="62.246042308868" lon="11.761339679706197">
+    <ele>668</ele>
+    <name>Sæter</name>
+  </wpt>
+  <wpt lat="62.2238946717478" lon="10.9549957781334">
+    <ele>720</ele>
+    <name>Knausen</name>
+  </wpt>
+  <wpt lat="62.2040883106297" lon="11.4482199160612">
+    <ele>713</ele>
+    <name>Ellefsplass</name>
+  </wpt>
+  <wpt lat="58.63693" lon="9.14876">
+    <ele>6</ele>
+    <name>Lyngør fyr</name>
+  </wpt>
+  <wpt lat="60.262225371626954" lon="10.785470298274674">
+    <ele>529</ele>
+    <name>Snellingen</name>
+  </wpt>
+  <wpt lat="59.86911" lon="10.7184">
+    <ele>3</ele>
+    <name>Langøyene</name>
+  </wpt>
+  <wpt lat="60.5369789016054" lon="6.07913238937247">
+    <ele>615</ele>
+    <name>Alexander Grieghytten</name>
+  </wpt>
+  <wpt lat="59.024358834975" lon="7.23674511200317">
+    <ele>932</ele>
+    <name>Øyuvsbu</name>
+  </wpt>
+  <wpt lat="58.9611217197872" lon="7.47121030916221">
+    <ele>700</ele>
+    <name>Tjønndalen</name>
+  </wpt>
+  <wpt lat="60.278707" lon="12.477915">
+    <ele>309</ele>
+    <name>Vålet</name>
+  </wpt>
+  <wpt lat="63.0217435756154" lon="8.97846478130258">
+    <ele>417</ele>
+    <name>Hermannhytta</name>
+  </wpt>
+  <wpt lat="62.9215892" lon="9.0092934">
+    <ele>479</ele>
+    <name>Vindølbu</name>
+  </wpt>
+  <wpt lat="58.8791084" lon="7.0643361">
+    <ele>721</ele>
+    <name>Kvinen</name>
+  </wpt>
+  <wpt lat="60.9271109249744" lon="7.99777273522981">
+    <ele>1571</ele>
+    <name>Bjordalsbu</name>
+  </wpt>
+  <wpt lat="60.7771009262815" lon="7.70118552483954">
+    <ele>1450</ele>
+    <name>Kongshelleren</name>
+  </wpt>
+  <wpt lat="60.7008526987777" lon="7.60350366220272">
+    <ele>1227</ele>
+    <name>Geiterygghytta</name>
+  </wpt>
+  <wpt lat="60.6681800653787" lon="7.24861269143682">
+    <ele>1094</ele>
+    <name>Hallingskeid - Steinboligen </name>
+  </wpt>
+  <wpt lat="62.5794917764555" lon="9.12452380089417">
+    <ele>768</ele>
+    <name>Vollasetra</name>
+  </wpt>
+  <wpt lat="62.8038305783249" lon="8.73354669074088">
+    <ele>45</ele>
+    <name>Todalshytta</name>
+  </wpt>
+  <wpt lat="62.7815342220489" lon="8.87462448641685">
+    <ele>208</ele>
+    <name>Kårvatn</name>
+  </wpt>
+  <wpt lat="62.9879972" lon="9.0006487">
+    <ele>320</ele>
+    <name>Sætersetra</name>
+  </wpt>
+  <wpt lat="62.71344365752432" lon="9.195165605494537">
+    <ele>680</ele>
+    <name>Vassendsetra</name>
+  </wpt>
+  <wpt lat="62.5226255624574" lon="8.70950555807272">
+    <ele>1316</ele>
+    <name>Raubergshytta</name>
+  </wpt>
+  <wpt lat="62.5435290117671" lon="8.95556143934528">
+    <ele>740</ele>
+    <name>Vangshaugen</name>
+  </wpt>
+  <wpt lat="62.443958226084" lon="8.9015181407419">
+    <ele>843</ele>
+    <name>Grøvudalshytta</name>
+  </wpt>
+  <wpt lat="60.4704756" lon="11.2387189">
+    <ele>125</ele>
+    <name>Morskogen vokterbolig</name>
+  </wpt>
+  <wpt lat="62.5005576181117" lon="9.11954852664917">
+    <ele>799</ele>
+    <name>Gammelsetra</name>
+  </wpt>
+  <wpt lat="62.4312182149804" lon="9.18181309659674">
+    <ele>1358</ele>
+    <name>Loennechenbua</name>
+  </wpt>
+  <wpt lat="68.3613748202377" lon="14.8808491394614">
+    <ele>412</ele>
+    <name>Trollfjordhytta</name>
+  </wpt>
+  <wpt lat="59.7861522328751" lon="10.3765129165493">
+    <ele>271</ele>
+    <name>Småvannsbu</name>
+  </wpt>
+  <wpt lat="59.8834407269781" lon="10.0327256363024">
+    <ele>438</ele>
+    <name>Svarvestolen</name>
+  </wpt>
+  <wpt lat="60.1691335727137" lon="10.4959017992588">
+    <ele>485</ele>
+    <name>Sinnerdammen</name>
+  </wpt>
+  <wpt lat="60.08978762703" lon="10.9379798462998">
+    <ele>275</ele>
+    <name>Spikertjernhytta</name>
+  </wpt>
+  <wpt lat="60.2361528591249" lon="10.8549533378609">
+    <ele>497</ele>
+    <name>Råbjørnhytta</name>
+  </wpt>
+  <wpt lat="60.02448" lon="10.84027">
+    <ele>405</ele>
+    <name>Røverhula</name>
+  </wpt>
+  <wpt lat="60.5401525864739" lon="7.31422016628183">
+    <ele>1311</ele>
+    <name>Demmevasshytta</name>
+  </wpt>
+  <wpt lat="60.0516706607775" lon="10.550020989925">
+    <ele>320</ele>
+    <name>Smedmyrkoia</name>
+  </wpt>
+  <wpt lat="60.05545" lon="10.42601">
+    <ele>418</ele>
+    <name>Presthytta</name>
+  </wpt>
+  <wpt lat="60.0326058104331" lon="10.4125459140775">
+    <ele>291</ele>
+    <name>Myrsetra</name>
+  </wpt>
+  <wpt lat="60.0513028549226" lon="10.7610033031717">
+    <ele>471</ele>
+    <name>Lille Tømtehytta</name>
+  </wpt>
+  <wpt lat="59.97207" lon="10.37167">
+    <ele>360</ele>
+    <name>Mustadkroken</name>
+  </wpt>
+  <wpt lat="60.1475954235365" lon="10.5913315820471">
+    <ele>465</ele>
+    <name>Katnosdammen </name>
+  </wpt>
+  <wpt lat="60.0513028549226" lon="10.761239931016">
+    <ele>470</ele>
+    <name>Store Tømtehytta</name>
+  </wpt>
+  <wpt lat="59.8459241916227" lon="10.3576699634755">
+    <ele>450</ele>
+    <name>Hovdehytta</name>
+  </wpt>
+  <wpt lat="60.0245551105873" lon="10.8403161143395">
+    <ele>406</ele>
+    <name>Fjellvang</name>
+  </wpt>
+  <wpt lat="60.03264" lon="10.41253">
+    <ele>291</ele>
+    <name>Drømmen</name>
+  </wpt>
+  <wpt lat="59.8152689" lon="11.0440829">
+    <ele>209</ele>
+    <name>Bøvelstad</name>
+  </wpt>
+  <wpt lat="60.1511908366839" lon="10.9265205250736">
+    <ele>348</ele>
+    <name>Bekkestua</name>
+  </wpt>
+  <wpt lat="59.8498994" lon="11.0098043">
+    <ele>179</ele>
+    <name>Røyrivannskoia</name>
+  </wpt>
+  <wpt lat="63.6627321" lon="10.903413">
+    <ele>294</ele>
+    <name>Fjellhov</name>
+  </wpt>
+  <wpt lat="60.7676506649977" lon="5.48894088703409">
+    <ele>428</ele>
+    <name>Kalvedalshytta</name>
+  </wpt>
+  <wpt lat="60.5618858374884" lon="5.67040004976338">
+    <ele>222</ele>
+    <name>Træet gård</name>
+  </wpt>
+  <wpt lat="60.2507491712327" lon="7.16653068190641">
+    <ele>1000</ele>
+    <name>Hadlaskard</name>
+  </wpt>
+  <wpt lat="61.0777878146419" lon="6.05471998249017">
+    <ele>573</ele>
+    <name>Brydalseter</name>
+  </wpt>
+  <wpt lat="60.8619057275462" lon="5.8153161745966">
+    <ele>960</ele>
+    <name>Skavlabu</name>
+  </wpt>
+  <wpt lat="60.4740267915025" lon="6.07516738508902">
+    <ele>822</ele>
+    <name>Vending</name>
+  </wpt>
+  <wpt lat="61.0089028883366" lon="6.13080536548784">
+    <ele>646</ele>
+    <name>Solrenningen</name>
+  </wpt>
+  <wpt lat="60.9135942319075" lon="6.26283599331662">
+    <ele>874</ele>
+    <name>Selhamar</name>
+  </wpt>
+  <wpt lat="60.0960367131531" lon="6.44145710388588">
+    <ele>1553</ele>
+    <name>Holmaskjer </name>
+  </wpt>
+  <wpt lat="60.5341698556577" lon="7.26985670179734">
+    <ele>960</ele>
+    <name>Rembesdalseter</name>
+  </wpt>
+  <wpt lat="59.403925" lon="11.0041778">
+    <ele>90</ele>
+    <name>Ravnsjøhytta</name>
+  </wpt>
+  <wpt lat="60.5146024810954" lon="6.20127818852509">
+    <ele>903</ele>
+    <name>Kiellandbu</name>
+  </wpt>
+  <wpt lat="60.0230768996484" lon="7.8902853467126">
+    <ele>937</ele>
+    <name>Mogen Turisthytte</name>
+  </wpt>
+  <wpt lat="60.2562656999739" lon="7.85008011044204">
+    <ele>1222</ele>
+    <name>Rauhelleren</name>
+  </wpt>
+  <wpt lat="60.1857645499585" lon="8.17114879385243">
+    <ele>1125</ele>
+    <name>Mårbu</name>
+  </wpt>
+  <wpt lat="59.4382626816413" lon="6.71858152274993">
+    <ele>979</ele>
+    <name>Stranddalen turisthytte</name>
+  </wpt>
+  <wpt lat="62.1730321" lon="7.4289061">
+    <ele>607</ele>
+    <name>Kaldhusseter selvbetjent</name>
+  </wpt>
+  <wpt lat="59.40174961523559" lon="9.424788280468618">
+    <ele>602</ele>
+    <name>Fugleleiken</name>
+  </wpt>
+  <wpt lat="62.1871694929022" lon="7.57831700386485">
+    <ele>703</ele>
+    <name>Reindalseter</name>
+  </wpt>
+  <wpt lat="60.5348664561984" lon="5.92471676999892">
+    <ele>905</ele>
+    <name>Høgabu</name>
+  </wpt>
+  <wpt lat="61.4631563489933" lon="8.01427979589425">
+    <ele>833</ele>
+    <name>Skogadalsbøen</name>
+  </wpt>
+  <wpt lat="62.2214688743504" lon="12.0149789174589">
+    <ele>826</ele>
+    <name>Svukuriset</name>
+  </wpt>
+  <wpt lat="62.2151573558319" lon="11.1503578789361">
+    <ele>899</ele>
+    <name>Raudsjødalen</name>
+  </wpt>
+  <wpt lat="62.4303" lon="11.4106">
+    <ele>699</ele>
+    <name>Narjordet</name>
+  </wpt>
+  <wpt lat="62.543444" lon="11.6394131905836">
+    <ele>793</ele>
+    <name>Marenvollen</name>
+  </wpt>
+  <wpt lat="61.974562443913" lon="10.4436494295403">
+    <ele>1247</ele>
+    <name>Korsberghytta</name>
+  </wpt>
+  <wpt lat="61.432758663026" lon="7.34091373451017">
+    <ele>628</ele>
+    <name>Navarsete</name>
+  </wpt>
+  <wpt lat="61.7402585588693" lon="7.48841148401977">
+    <ele>1268</ele>
+    <name>Sprongdalshytta</name>
+  </wpt>
+  <wpt lat="61.5734344679404" lon="7.5363133633699">
+    <ele>847</ele>
+    <name>Fast</name>
+  </wpt>
+  <wpt lat="61.9124268841079" lon="10.3695250635268">
+    <ele>860</ele>
+    <name>Storgrytdalseter</name>
+  </wpt>
+  <wpt lat="61.309306280242" lon="8.51915424717503">
+    <ele>1052</ele>
+    <name>Yksendalsbu</name>
+  </wpt>
+  <wpt lat="61.2354883879626" lon="8.53245638122192">
+    <ele>1488</ele>
+    <name>Tomashelleren</name>
+  </wpt>
+  <wpt lat="61.4711105644619" lon="8.27392241988924">
+    <ele>1439</ele>
+    <name>Olavsbu</name>
+  </wpt>
+  <wpt lat="60.0936402592026" lon="7.13708721030565">
+    <ele>1195</ele>
+    <name>Litlos</name>
+  </wpt>
+  <wpt lat="59.92891851" lon="8.47991851">
+    <ele>1091</ele>
+    <name>Helberghytta</name>
+  </wpt>
+  <wpt lat="59.72474" lon="10.18738">
+    <ele>229</ele>
+    <name>Blektjernstua</name>
+  </wpt>
+  <wpt lat="59.52309" lon="10.33304">
+    <ele>17</ele>
+    <name>Veslekillingen</name>
+  </wpt>
+  <wpt lat="69.7370095218372" lon="19.4900303586616">
+    <ele>272</ele>
+    <name>Trollvassbu</name>
+  </wpt>
+  <wpt lat="69.63805557" lon="19.20111111">
+    <ele>580</ele>
+    <name>Skarvassbu</name>
+  </wpt>
+  <wpt lat="69.7048293018902" lon="19.3155485690148">
+    <ele>279</ele>
+    <name>Nonsbu</name>
+  </wpt>
+  <wpt lat="69.6809337240665" lon="19.2087846410212">
+    <ele>240</ele>
+    <name>Blåkollkoia</name>
+  </wpt>
+  <wpt lat="60.4015059573342" lon="8.97991761570914">
+    <ele>1004</ele>
+    <name>Dalabu</name>
+  </wpt>
+  <wpt lat="61.1403497728013" lon="8.17534579530292">
+    <ele>1328</ele>
+    <name>Sulebu</name>
+  </wpt>
+  <wpt lat="63.1116333616318" lon="11.9829976059092">
+    <ele>766</ele>
+    <name>Storerikvollen</name>
+  </wpt>
+  <wpt lat="63.2119173179375" lon="11.5065487410346">
+    <ele>569</ele>
+    <name>Schulzhytta</name>
+  </wpt>
+  <wpt lat="61.2458522935697" lon="8.12967586555553">
+    <ele>1315</ele>
+    <name>Slettningsbu</name>
+  </wpt>
+  <wpt lat="62.978695978355205" lon="12.101837821886818">
+    <ele>783</ele>
+    <name>Nedalshytta</name>
+  </wpt>
+  <wpt lat="59.8194357111354" lon="10.1274981727907">
+    <ele>389</ele>
+    <name>Eiksetra</name>
+  </wpt>
+  <wpt lat="66.00612" lon="14.13957">
+    <ele>1181</ele>
+    <name>Rabothytta</name>
+  </wpt>
+  <wpt lat="61.4960052549312" lon="7.35691584943062">
+    <ele>972</ele>
+    <name>Fivla</name>
+  </wpt>
+  <wpt lat="60.199215" lon="12.33">
+    <ele>205</ele>
+    <name>Grasbråtan</name>
+  </wpt>
+  <wpt lat="59.4537655710964" lon="9.47030090594326">
+    <ele>592</ele>
+    <name>Sommerseter</name>
+  </wpt>
+  <wpt lat="60.211303616616" lon="7.03484938860817">
+    <ele>1327</ele>
+    <name>Torehytten</name>
+  </wpt>
+  <wpt lat="59.8240035964852" lon="7.19396025640311">
+    <ele>987</ele>
+    <name>Haukeliseter fjellstue</name>
+  </wpt>
+  <wpt lat="68.6757854674239" lon="19.8210353975179">
+    <ele>576</ele>
+    <name>Dividalshytta</name>
+  </wpt>
+  <wpt lat="61.1723223573505" lon="9.95945128620815">
+    <ele>813</ele>
+    <name>Kittilbua</name>
+  </wpt>
+  <wpt lat="59.9794" lon="9.8656">
+    <ele>378</ele>
+    <name>Koboltkoia</name>
+  </wpt>
+  <wpt lat="59.490437441176" lon="9.74828181455115">
+    <ele>612</ele>
+    <name>Darrebu</name>
+  </wpt>
+  <wpt lat="60.0601575672526" lon="8.08154791468515">
+    <ele>1137</ele>
+    <name>Stordalsbu</name>
+  </wpt>
+  <wpt lat="69.79752002" lon="24.18320969">
+    <ele>380</ele>
+    <name>Bojobæskihytta</name>
+  </wpt>
+  <wpt lat="61.3725239453012" lon="10.5830642816129">
+    <ele>947</ele>
+    <name>Djupslia</name>
+  </wpt>
+  <wpt lat="61.3825700502882" lon="10.7468011826266">
+    <ele>1007</ele>
+    <name>Lyngbua</name>
+  </wpt>
+  <wpt lat="61.46864058472849" lon="10.502561798633963">
+    <ele>925</ele>
+    <name>Vetåbua</name>
+  </wpt>
+  <wpt lat="59.9549413821633" lon="6.99005482022101">
+    <ele>861</ele>
+    <name>Middalsbu</name>
+  </wpt>
+  <wpt lat="60.0360956568802" lon="10.6636514925302">
+    <ele>431</ele>
+    <name>Kobberhaughytta</name>
+  </wpt>
+  <wpt lat="59.9828950928303" lon="7.21507294831629">
+    <ele>1165</ele>
+    <name>Hellevassbu </name>
+  </wpt>
+  <wpt lat="60.4267108620107" lon="7.49745521812969">
+    <ele>1060</ele>
+    <name>Kjeldebu</name>
+  </wpt>
+  <wpt lat="60.0686509640234" lon="8.36963626854718">
+    <ele>1098</ele>
+    <name>Kalhovd Turisthytte</name>
+  </wpt>
+  <wpt lat="59.0714917" lon="8.08285">
+    <ele>689</ele>
+    <name>Hengeltjørnhytta</name>
+  </wpt>
+  <wpt lat="59.3581" lon="10.0314">
+    <ele>171</ele>
+    <name>Annekset  på  Trollsvann</name>
+  </wpt>
+  <wpt lat="63.59827" lon="11.53974">
+    <ele>390</ele>
+    <name>Branok</name>
+  </wpt>
+  <wpt lat="61.2430630737376" lon="10.8170117465472">
+    <ele>679</ele>
+    <name>Skolla leirsted</name>
+  </wpt>
+  <wpt lat="61.155164182708546" lon="10.916773696961627">
+    <ele>665</ele>
+    <name>Åkersætra leirsted</name>
+  </wpt>
+  <wpt lat="59.38336" lon="10.02643">
+    <ele>341</ele>
+    <name>Hannevoldhytta</name>
+  </wpt>
+  <wpt lat="61.4940507143726" lon="8.81276999450361">
+    <ele>990</ele>
+    <name>Gjendesheim</name>
+  </wpt>
+  <wpt lat="60.024171936421" lon="10.8409294041974">
+    <ele>406</ele>
+    <name>Nydalshytta</name>
+  </wpt>
+  <wpt lat="58.9758556128529" lon="8.17913009861405">
+    <ele>801</ele>
+    <name>Mjåvasshytta</name>
+  </wpt>
+  <wpt lat="59.1670576705041" lon="7.73575285250332">
+    <ele>885</ele>
+    <name>Nystøyl</name>
+  </wpt>
+  <wpt lat="59.255167173849" lon="7.77065282023417">
+    <ele>834</ele>
+    <name>Hovstøyl</name>
+  </wpt>
+  <wpt lat="61.4263000142468" lon="9.14760280368475">
+    <ele>1180</ele>
+    <name>Oskampen</name>
+  </wpt>
+  <wpt lat="61.6226945183016" lon="8.63236345514155">
+    <ele>1386</ele>
+    <name>Glitterheim</name>
+  </wpt>
+  <wpt lat="61.4513756174598" lon="8.48757976165548">
+    <ele>989</ele>
+    <name>Gjendebu</name>
+  </wpt>
+  <wpt lat="61.37521" lon="8.29731">
+    <ele>1061</ele>
+    <name>Fondsbu</name>
+  </wpt>
+  <wpt lat="66.3085742922967" lon="15.3648525053198">
+    <ele>648</ele>
+    <name>Virvasshytta</name>
+  </wpt>
+  <wpt lat="63.06707779" lon="8.6201389">
+    <ele>564</ele>
+    <name>Tverrlihytta</name>
+  </wpt>
+  <wpt lat="63.184782423034" lon="9.01236541275334">
+    <ele>248</ele>
+    <name>Storlisetra</name>
+  </wpt>
+  <wpt lat="63.2746604821582" lon="8.82373412112891">
+    <ele>485</ele>
+    <name>Storfiskhytta</name>
+  </wpt>
+  <wpt lat="63.0389669037608" lon="8.38980120800962">
+    <ele>401</ele>
+    <name>Jutulbu</name>
+  </wpt>
+  <wpt lat="63.3005504" lon="8.6583745">
+    <ele>444</ele>
+    <name>Rovangen</name>
+  </wpt>
+  <wpt lat="58.39889" lon="8.7897">
+    <ele>12</ele>
+    <name>Store Torungen</name>
+  </wpt>
+  <wpt lat="66.18404" lon="15.05173">
+    <ele>576</ele>
+    <name>Kvitsteindalstunet</name>
+  </wpt>
+  <wpt lat="59.5036956376215" lon="9.64852032675268">
+    <ele>630</ele>
+    <name>Sørmyrseter</name>
+  </wpt>
+  <wpt lat="69.8963653129625" lon="19.1289208516921">
+    <ele>394</ele>
+    <name>Ringvassbu</name>
+  </wpt>
+  <wpt lat="62.159392605613" lon="7.72058136038983">
+    <ele>1183</ele>
+    <name>Veltdalshytta</name>
+  </wpt>
+  <wpt lat="63.2109782509767" lon="8.27645921826227">
+    <ele>5</ele>
+    <name>Imarbu</name>
+  </wpt>
+  <wpt lat="62.2679973386833" lon="6.67057532201762">
+    <ele>411</ele>
+    <name>Velleseter</name>
+  </wpt>
+  <wpt lat="62.2686322652274" lon="7.83169117326046">
+    <ele>871</ele>
+    <name>Vakkerstøylen</name>
+  </wpt>
+  <wpt lat="62.094612838922" lon="6.60685740685706">
+    <ele>662</ele>
+    <name>Tyssenaustet</name>
+  </wpt>
+  <wpt lat="69.9394444" lon="22.9227777">
+    <ele>901</ele>
+    <name>Nordlysobservatoriet Halde, Alta</name>
+  </wpt>
+  <wpt lat="62.212726019234" lon="7.79858669554683">
+    <ele>1158</ele>
+    <name>Pyttbua</name>
+  </wpt>
+  <wpt lat="62.2115257200266" lon="6.72013018042409">
+    <ele>818</ele>
+    <name>Patchellhytta</name>
+  </wpt>
+  <wpt lat="62.1051772402285" lon="7.52833923932374">
+    <ele>1450</ele>
+    <name>Danskehytta</name>
+  </wpt>
+  <wpt lat="62.3209833684591" lon="7.66774646750388">
+    <ele>982</ele>
+    <name>Tjønnebu</name>
+  </wpt>
+  <wpt lat="61.8234729272641" lon="7.48193735578395">
+    <ele>1113</ele>
+    <name>Slæom</name>
+  </wpt>
+  <wpt lat="59.540552815782" lon="9.52354718011894">
+    <ele>690</ele>
+    <name>Sveinsbu</name>
+  </wpt>
+  <wpt lat="59.794645946534" lon="9.15572952322309">
+    <ele>1180</ele>
+    <name>Sigridsbu</name>
+  </wpt>
+  <wpt lat="59.8818329121573" lon="9.18842463614556">
+    <ele>945</ele>
+    <name>Eriksbu</name>
+  </wpt>
+  <wpt lat="60.375876377387" lon="10.7147948143906">
+    <ele>550</ele>
+    <name>Kjørestua på Sagvollen</name>
+  </wpt>
+  <wpt lat="62.6802550851663" lon="9.15066687996331">
+    <ele>631</ele>
+    <name>Bårdsgarden</name>
+  </wpt>
+  <wpt lat="66.9947293902061" lon="15.9668099166902">
+    <ele>601</ele>
+    <name>Tjoarvihytta</name>
+  </wpt>
+  <wpt lat="67.0543961812579" lon="16.0946564201475">
+    <ele>564</ele>
+    <name>Tjalalveshytta</name>
+  </wpt>
+  <wpt lat="60.4957849943307" lon="9.46857052648353">
+    <ele>809</ele>
+    <name>Vassfarkoia</name>
+  </wpt>
+  <wpt lat="60.60992" lon="9.43168">
+    <ele>751</ele>
+    <name>Fønhuskoia</name>
+  </wpt>
+  <wpt lat="61.3337854430853" lon="9.34289905643728">
+    <ele>1038</ele>
+    <name>Skriurusten</name>
+  </wpt>
+  <wpt lat="61.2605227438213" lon="9.37042902519328">
+    <ele>1026</ele>
+    <name>Haldorbu </name>
+  </wpt>
+  <wpt lat="60.0291345980882" lon="8.98108698871259">
+    <ele>980</ele>
+    <name>Daggrø</name>
+  </wpt>
+  <wpt lat="66.49242408517196" lon="15.237744447494379">
+    <ele>532</ele>
+    <name>Bolnastua</name>
+  </wpt>
+  <wpt lat="61.6428041147622" lon="7.790012109702">
+    <ele>938</ele>
+    <name>Nørdstedalseter</name>
+  </wpt>
+  <wpt lat="60.1839458795195" lon="7.48191112813482">
+    <ele>1252</ele>
+    <name>Sandhaug</name>
+  </wpt>
+  <wpt lat="62.0907205692801" lon="9.64146172442695">
+    <ele>992</ele>
+    <name>Grimsdalshytta</name>
+  </wpt>
+  <wpt lat="61.8091994199845" lon="7.70941266902509">
+    <ele>740</ele>
+    <name>Sota Sæter</name>
+  </wpt>
+  <wpt lat="59.5146513523317" lon="9.72558961906847">
+    <ele>612</ele>
+    <name>Ivarsbu</name>
+  </wpt>
+  <wpt lat="59.4684845644958" lon="9.56792589103426">
+    <ele>578</ele>
+    <name>Solumhytta</name>
+  </wpt>
+  <wpt lat="59.6882472570921" lon="9.36391617338664">
+    <ele>730</ele>
+    <name>Selsli</name>
+  </wpt>
+  <wpt lat="63.462445836839" lon="12.0588614213548">
+    <ele>516</ele>
+    <name>Angeltjønnhytta</name>
+  </wpt>
+  <wpt lat="63.2891516195295" lon="11.3416223603131">
+    <ele>623</ele>
+    <name>Prestøyhytta</name>
+  </wpt>
+  <wpt lat="63.34395556" lon="11.255825">
+    <ele>500</ele>
+    <name>Kvitfjellhytta</name>
+  </wpt>
+  <wpt lat="63.1639078023723" lon="11.7221569785424">
+    <ele>771</ele>
+    <name>Ramsjøhytta</name>
+  </wpt>
+  <wpt lat="63.0699957289028" lon="11.4722501829557">
+    <ele>594</ele>
+    <name>Græslihytta</name>
+  </wpt>
+  <wpt lat="63.5422525134286" lon="11.9417958064591">
+    <ele>467</ele>
+    <name>Ferslia</name>
+  </wpt>
+  <wpt lat="62.8683382513024" lon="11.6485179534731">
+    <ele>1046</ele>
+    <name>Kjølihytta</name>
+  </wpt>
+  <wpt lat="59.443183796938" lon="7.50895470243302">
+    <ele>980</ele>
+    <name>Berdalsbu</name>
+  </wpt>
+  <wpt lat="62.6345746" lon="8.8431178">
+    <ele>133</ele>
+    <name>Eiriksvollen</name>
+  </wpt>
+  <wpt lat="62.5401036465533" lon="9.34131847068594">
+    <ele>853</ele>
+    <name>Dindalshytta</name>
+  </wpt>
+  <wpt lat="60.4068507035675" lon="9.77543253509401">
+    <ele>379</ele>
+    <name>Buvasskoia</name>
+  </wpt>
+  <wpt lat="62.6341345626999" lon="8.29709994091844">
+    <ele>201</ele>
+    <name>Brandstadbu</name>
+  </wpt>
+  <wpt lat="59.7701125470983" lon="6.24847385233669">
+    <ele>632</ele>
+    <name>Blomstølen</name>
+  </wpt>
+  <wpt lat="60.1665153224957" lon="11.7756999386148">
+    <ele>351</ele>
+    <name>Bergersætra</name>
+  </wpt>
+  <wpt lat="60.4658629221738" lon="6.12568823165929">
+    <ele>1160</ele>
+    <name>Breidablik (Kvam)</name>
+  </wpt>
+  <wpt lat="62.519430496491196" lon="9.874970476994434">
+    <ele>1072</ele>
+    <name>Orkelsjøhytta</name>
+  </wpt>
+  <wpt lat="59.4341476986014" lon="9.79257432003823">
+    <ele>453</ele>
+    <name>Presteseter</name>
+  </wpt>
+  <wpt lat="61.0149233059352" lon="5.9963734413157">
+    <ele>1012</ele>
+    <name>Norddalshytten</name>
+  </wpt>
+  <wpt lat="67.1172183575192" lon="14.7453465502179">
+    <ele>315</ele>
+    <name>Lurfjellhytta</name>
+  </wpt>
+  <wpt lat="62.406441677849" lon="8.54019031075018">
+    <ele>866</ele>
+    <name>Aursjøhytta</name>
+  </wpt>
+  <wpt lat="62.8225968063033" lon="7.40911368012351">
+    <ele>269</ele>
+    <name>Feskarbu</name>
+  </wpt>
+  <wpt lat="68.0359282" lon="13.0751614">
+    <ele>25</ele>
+    <name>Selfjordhytta</name>
+  </wpt>
+  <wpt lat="59.2034089473101" lon="7.76722220589319">
+    <ele>677</ele>
+    <name>Torsdalsbu</name>
+  </wpt>
+  <wpt lat="68.6622641727809" lon="14.7756614210368">
+    <ele>4</ele>
+    <name>Guvåghytta</name>
+  </wpt>
+  <wpt lat="66.5454652556673" lon="14.4007367358826">
+    <ele>480</ele>
+    <name>Blakkådalshytta</name>
+  </wpt>
+  <wpt lat="60.1760310215052" lon="9.88282279775765">
+    <ele>528</ele>
+    <name>Grønknutkoia</name>
+  </wpt>
+  <wpt lat="60.9866382518594" lon="6.51990380437744">
+    <ele>867</ele>
+    <name>Målsethytta</name>
+  </wpt>
+  <wpt lat="68.5640613939084" lon="15.5754871193604">
+    <ele>386</ele>
+    <name>Snytindhytta</name>
+  </wpt>
+  <wpt lat="61.14303005453459" lon="9.507205079376291">
+    <ele>878</ele>
+    <name>Svarthamar</name>
+  </wpt>
+  <wpt lat="60.5621464818624" lon="6.24231743390803">
+    <ele>892</ele>
+    <name>Torfinnsheim</name>
+  </wpt>
+  <wpt lat="67.96055" lon="16.83351">
+    <ele>805</ele>
+    <name>Røysvatn</name>
+  </wpt>
+  <wpt lat="68.04895" lon="17.0317">
+    <ele>695</ele>
+    <name>Paurohytta</name>
+  </wpt>
+  <wpt lat="68.10296" lon="17.2288">
+    <ele>617</ele>
+    <name>Sitashytta</name>
+  </wpt>
+  <wpt lat="68.0389124946628" lon="17.8374036498428">
+    <ele>857</ele>
+    <name>Gautelishytta</name>
+  </wpt>
+  <wpt lat="68.1976838439518" lon="18.0834991021402">
+    <ele>709</ele>
+    <name>Cunojávrihytta</name>
+  </wpt>
+  <wpt lat="68.5137001187305" lon="18.6321687115946">
+    <ele>542</ele>
+    <name>Lappjordhytta</name>
+  </wpt>
+  <wpt lat="68.6633141" lon="18.8907379">
+    <ele>540</ele>
+    <name>Altevasshytta</name>
+  </wpt>
+  <wpt lat="68.6723180738748" lon="19.4871423022427">
+    <ele>725</ele>
+    <name>Vuomahytta</name>
+  </wpt>
+  <wpt lat="69.3205871934293" lon="21.9676291200571">
+    <ele>150</ele>
+    <name>Nedrefosshytta</name>
+  </wpt>
+  <wpt lat="59.1313870906424" lon="5.24413423301471">
+    <ele>17</ele>
+    <name>Geitungen fyr</name>
+  </wpt>
+  <wpt lat="58.81982801" lon="8.257896">
+    <ele>581</ele>
+    <name>Skarsvassbu</name>
+  </wpt>
+  <wpt lat="58.8930435522833" lon="8.12518518468801">
+    <ele>701</ele>
+    <name>Grunnetjørnsbu</name>
+  </wpt>
+  <wpt lat="58.664702276793" lon="8.49196265311697">
+    <ele>387</ele>
+    <name>Olandsbu</name>
+  </wpt>
+  <wpt lat="59.5373496324392" lon="7.5196342854484">
+    <ele>1303</ele>
+    <name>Tjørnbrotbu</name>
+  </wpt>
+  <wpt lat="59.0067095497395" lon="7.94877436450121">
+    <ele>775</ele>
+    <name>Granbustøyl</name>
+  </wpt>
+  <wpt lat="60.97939" lon="6.73771">
+    <ele>985</ele>
+    <name>Jashaugbu</name>
+  </wpt>
+  <wpt lat="68.2632" lon="14.50383">
+    <ele>263</ele>
+    <name>Nøkksætra</name>
+  </wpt>
+  <wpt lat="63.1908595" lon="8.1071011">
+    <ele>168</ele>
+    <name>Gullsteinvollen</name>
+  </wpt>
+  <wpt lat="68.5531376194269" lon="18.1873709288333">
+    <ele>473</ele>
+    <name>Stordalsstua</name>
+  </wpt>
+  <wpt lat="66.847969024464" lon="15.7873357953453">
+    <ele>568</ele>
+    <name>Argaladhytta</name>
+  </wpt>
+  <wpt lat="60.965675357962" lon="6.22049193398861">
+    <ele>820</ele>
+    <name>Åsedalen</name>
+  </wpt>
+  <wpt lat="60.843448291311" lon="6.91550431993121">
+    <ele>1090</ele>
+    <name>Grindaflethytta</name>
+  </wpt>
+  <wpt lat="59.6941785225758" lon="6.23503271304362">
+    <ele>579</ele>
+    <name>Storavassbu</name>
+  </wpt>
+  <wpt lat="60.7368242061129" lon="6.36452869789317">
+    <ele>1052</ele>
+    <name>Tvinnestølen</name>
+  </wpt>
+  <wpt lat="59.0522110141592" lon="11.7372663033021">
+    <ele>169</ele>
+    <name>Budalsvika</name>
+  </wpt>
+  <wpt lat="59.7162631" lon="11.7559918">
+    <ele>333</ele>
+    <name>Haukenestårnet</name>
+  </wpt>
+  <wpt lat="61.1196194638958" lon="11.0537835512439">
+    <ele>650</ele>
+    <name>Halgutusveen</name>
+  </wpt>
+  <wpt lat="61.1139821797945" lon="4.83000875367426">
+    <ele>8</ele>
+    <name>Råkeneset</name>
+  </wpt>
+  <wpt lat="68.7048796787535" lon="15.7523497955377">
+    <ele>192</ele>
+    <name>Ingemannhytta</name>
+  </wpt>
+  <wpt lat="68.7614998194305" lon="16.5196036162703">
+    <ele>318</ele>
+    <name>Maistua</name>
+  </wpt>
+  <wpt lat="61.5856889" lon="10.35288611">
+    <ele>1134</ele>
+    <name>Jammerdalsbu</name>
+  </wpt>
+  <wpt lat="60.9467450997535" lon="5.88992045066273">
+    <ele>887</ele>
+    <name>Vardadalsbu</name>
+  </wpt>
+  <wpt lat="60.6722195356329" lon="11.5785600566871">
+    <ele>525</ele>
+    <name>Tingstadkoia</name>
+  </wpt>
+  <wpt lat="60.1445277116917" lon="8.79824347420683">
+    <ele>1236</ele>
+    <name>Lufsjå</name>
+  </wpt>
+  <wpt lat="59.52077" lon="10.33419">
+    <ele>5</ele>
+    <name>Camp Killingen</name>
+  </wpt>
+  <wpt lat="68.65834593490115" lon="16.389663638931182">
+    <ele>210</ele>
+    <name>Bjørnhaugen</name>
+  </wpt>
+  <wpt lat="66.924921804627" lon="15.870959161149">
+    <ele>606</ele>
+    <name>Balvasshyttene</name>
+  </wpt>
+  <wpt lat="60.5956912335781" lon="11.5073565870092">
+    <ele>386</ele>
+    <name>Fløtdamkoia</name>
+  </wpt>
+  <wpt lat="60.7202452" lon="10.50349">
+    <ele>588</ele>
+    <name>Mæhlumsetra</name>
+  </wpt>
+  <wpt lat="60.3386101540798" lon="9.97647312354347">
+    <ele>741</ele>
+    <name>Tjuenborgkoia</name>
+  </wpt>
+  <wpt lat="61.4046789788377" lon="5.44498569151306">
+    <ele>386</ele>
+    <name>Massbu</name>
+  </wpt>
+  <wpt lat="60.2931657504425" lon="9.46055626610276">
+    <ele>1397</ele>
+    <name>Høgevarde gamle</name>
+  </wpt>
+  <wpt lat="60.4469020402669" lon="9.95586568043673">
+    <ele>653</ele>
+    <name>Vikerkoia og Gamle Vikerkoia</name>
+  </wpt>
+  <wpt lat="60.7392526498237" lon="6.30548312085904">
+    <ele>940</ele>
+    <name>Volahytta</name>
+  </wpt>
+  <wpt lat="60.8236774044093" lon="6.33241726241349">
+    <ele>811</ele>
+    <name>Torvedalshytta</name>
+  </wpt>
+  <wpt lat="61.0231865975367" lon="6.3259048123886">
+    <ele>898</ele>
+    <name>Vatnane</name>
+  </wpt>
+  <wpt lat="62.0320444323309" lon="5.12273038254969">
+    <ele>25</ele>
+    <name>Skongenes fyr</name>
+  </wpt>
+  <wpt lat="64.0634277662145" lon="12.8963611239488">
+    <ele>451</ele>
+    <name>Holden fjellgård, Bekkstuggu</name>
+  </wpt>
+  <wpt lat="60.73636669131977" lon="12.220108473644302">
+    <ele>280</ele>
+    <name>Kynndammen</name>
+  </wpt>
+  <wpt lat="62.5501131945122" lon="8.3676825829612">
+    <ele>900</ele>
+    <name>Reinsvassbu</name>
+  </wpt>
+  <wpt lat="60.090860918104" lon="6.34298408468033">
+    <ele>1321</ele>
+    <name>Breidablikk</name>
+  </wpt>
+  <wpt lat="60.152603" lon="12.512538">
+    <ele>379</ele>
+    <name>Lebiko</name>
+  </wpt>
+  <wpt lat="60.380063" lon="12.42388">
+    <ele>246</ele>
+    <name>Helgedammen</name>
+  </wpt>
+  <wpt lat="61.016551" lon="12.011082">
+    <ele>513</ele>
+    <name>Juskjølkoia</name>
+  </wpt>
+  <wpt lat="60.993377" lon="11.956837">
+    <ele>440</ele>
+    <name>Renosdammen</name>
+  </wpt>
+  <wpt lat="61.4176040307139" lon="9.34528934365036">
+    <ele>966</ele>
+    <name>Storhøliseter</name>
+  </wpt>
+  <wpt lat="61.0387629677428" lon="11.24782084856173">
+    <ele>755</ele>
+    <name>Snippkoia</name>
+  </wpt>
+  <wpt lat="60.51965" lon="11.40435">
+    <ele>300</ele>
+    <name>Gammelsaga</name>
+  </wpt>
+  <wpt lat="61.3373521461844" lon="9.44573188660974">
+    <ele>1196</ele>
+    <name>Storkvolvbua</name>
+  </wpt>
+  <wpt lat="62.1241588004332" lon="7.84828394507612">
+    <ele>1345</ele>
+    <name>Torsbu</name>
+  </wpt>
+  <wpt lat="66.9359262198618" lon="15.2364979950827">
+    <ele>331</ele>
+    <name>Jordbruhytta</name>
+  </wpt>
+  <wpt lat="60.8042461" lon="10.6261075">
+    <ele>378</ele>
+    <name>Fogdehytta</name>
+  </wpt>
+  <wpt lat="60.5707292" lon="10.8479883">
+    <ele>499</ele>
+    <name>Vesterås</name>
+  </wpt>
+  <wpt lat="66.8610124978763" lon="14.1559431755195">
+    <ele>425</ele>
+    <name>Fellvasstua</name>
+  </wpt>
+  <wpt lat="66.7607980140651" lon="15.0129228752903">
+    <ele>708</ele>
+    <name>Midtistua</name>
+  </wpt>
+  <wpt lat="68.4042729450248" lon="17.985578275901">
+    <ele>369</ele>
+    <name>Vokterboligen</name>
+  </wpt>
+  <wpt lat="60.0766729163385" lon="6.34779398605529">
+    <ele>1443</ele>
+    <name>Fonnabu</name>
+  </wpt>
+  <wpt lat="66.8007597584971" lon="15.6889489063872">
+    <ele>412</ele>
+    <name>Trygvebu</name>
+  </wpt>
+  <wpt lat="64.0487787" lon="11.5407623">
+    <ele>201</ele>
+    <name>Svarttjønnbua</name>
+  </wpt>
+  <wpt lat="70.54742" lon="30.35474">
+    <ele>9</ele>
+    <name>Indre Syltevik</name>
+  </wpt>
+  <wpt lat="60.3387097276136" lon="9.32239011547501">
+    <ele>973</ele>
+    <name>Toveseter</name>
+  </wpt>
+  <wpt lat="61.4017732530562" lon="5.33567644153387">
+    <ele>483</ele>
+    <name>Nipebu</name>
+  </wpt>
+  <wpt lat="59.6600428188208" lon="6.11565847656858">
+    <ele>638</ele>
+    <name>Løkjelsvatnhytta</name>
+  </wpt>
+  <wpt lat="66.8151896030092" lon="15.400800160253624">
+    <ele>116</ele>
+    <name>Nystadnesstua (Storjordstua)</name>
+  </wpt>
+  <wpt lat="59.846543003467" lon="6.45709582984075">
+    <ele>781</ele>
+    <name>Simlebu</name>
+  </wpt>
+  <wpt lat="59.7902087471719" lon="6.3064801292503">
+    <ele>825</ele>
+    <name>Sandvasshytta</name>
+  </wpt>
+  <wpt lat="59.3103196761418" lon="4.88864087332268">
+    <ele>9</ele>
+    <name>Nordvikgården</name>
+  </wpt>
+  <wpt lat="59.9603955145336" lon="6.43333324959848">
+    <ele>1081</ele>
+    <name>Sauabrehytta</name>
+  </wpt>
+  <wpt lat="63.9956252457528" lon="12.3131131039681">
+    <ele>451</ele>
+    <name>Setertjønnhytta</name>
+  </wpt>
+  <wpt lat="68.570897951268" lon="17.013194812163135">
+    <ele>564</ele>
+    <name>Blåvatnhytta</name>
+  </wpt>
+  <wpt lat="61.1149609153834" lon="10.098249114988">
+    <ele>917</ele>
+    <name>Skjellbreidhytta</name>
+  </wpt>
+  <wpt lat="65.5030713148063" lon="13.2352089183797">
+    <ele>366</ele>
+    <name>Stavassætra</name>
+  </wpt>
+  <wpt lat="65.7612504" lon="13.543467">
+    <ele>432</ele>
+    <name>Klubbfjelltjørnhytta</name>
+  </wpt>
+  <wpt lat="66.7871777105009" lon="14.4742156279381">
+    <ele>617</ele>
+    <name>Gråtådalstua</name>
+  </wpt>
+  <wpt lat="67.0539565289425" lon="16.3728746163834">
+    <ele>720</ele>
+    <name>Mourkihytta</name>
+  </wpt>
+  <wpt lat="66.6788875565665" lon="15.0499130387826">
+    <ele>515</ele>
+    <name>Krukkistua</name>
+  </wpt>
+  <wpt lat="67.0017489468569" lon="14.9485312782136">
+    <ele>553</ele>
+    <name>Tverrbrennstua</name>
+  </wpt>
+  <wpt lat="66.7150097252572" lon="15.0260018234135">
+    <ele>606</ele>
+    <name>Saltfjellstua</name>
+  </wpt>
+  <wpt lat="63.1001722854437" lon="8.76387853350056">
+    <ele>780</ele>
+    <name>Hardbakkhytta</name>
+  </wpt>
+  <wpt lat="63.1093278453986" lon="8.94591073377412">
+    <ele>418</ele>
+    <name>Grytbakksetra</name>
+  </wpt>
+  <wpt lat="63.2079220164881" lon="8.87240505236666">
+    <ele>313</ele>
+    <name>Sollia</name>
+  </wpt>
+  <wpt lat="63.218534499132" lon="8.4336879145217">
+    <ele>182</ele>
+    <name>Nersetra</name>
+  </wpt>
+  <wpt lat="63.1592874" lon="8.0206236">
+    <ele>76</ele>
+    <name>Trollstua</name>
+  </wpt>
+  <wpt lat="66.1868322946607" lon="14.7508227202825">
+    <ele>965</ele>
+    <name>Sauvasshytta</name>
+  </wpt>
+  <wpt lat="63.9108495203628" lon="12.2219389982333">
+    <ele>390</ele>
+    <name>Skjækerdalshytta</name>
+  </wpt>
+  <wpt lat="62.5651261698681" lon="8.14412375433385">
+    <ele>37</ele>
+    <name>Hoemsbu</name>
+  </wpt>
+  <wpt lat="66.0654227567682" lon="14.2615409114161">
+    <ele>529</ele>
+    <name>Kjensvasshytta</name>
+  </wpt>
+  <wpt lat="68.63494791423815" lon="16.047412747747387">
+    <ele>18</ele>
+    <name>Fossestua</name>
+  </wpt>
+  <wpt lat="61.0939341" lon="6.2953362">
+    <ele>50</ele>
+    <name>Sylvarnes</name>
+  </wpt>
+  <wpt lat="66.0480694037548" lon="14.4258018212821">
+    <ele>605</ele>
+    <name>Gressvasshytta</name>
+  </wpt>
+</gpx>
