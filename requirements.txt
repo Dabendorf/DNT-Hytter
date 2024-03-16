@@ -1,0 +1,5 @@
+pandas
+folium
+gpxpy
+json
+requests
